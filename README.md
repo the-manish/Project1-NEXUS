@@ -1,4 +1,4 @@
-# Sign In & Sign Up Page Documentation
+# Sign In & Sign Up Page Documentation 
 
 ## Introduction
 
